@@ -1,0 +1,26 @@
+Q:
+Does it live?
+Q:
+Is it green?
+Q:
+Is it a flower?
+A:
+frog
+A:
+moss
+Q:
+Does it run fast?
+A:
+cheetah
+A:
+dog
+Q:
+Is it big?
+Q:
+Is it a planet?
+A:
+world
+A:
+computer
+A:
+shoe

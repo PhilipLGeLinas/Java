@@ -1,0 +1,6 @@
+Q:
+Is it alive?
+A:
+dog
+A:
+computer
